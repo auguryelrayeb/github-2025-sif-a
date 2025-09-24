@@ -9,3 +9,4 @@ b. Mencoba membuat branch
 Melakukan update hanya pada branch sesi-3
 test hasil edit dari anggota
 test
+Teks dari guryputu
